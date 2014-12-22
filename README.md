@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Stuff
+This repository contains general stuff that does not fit in anywhere else.
